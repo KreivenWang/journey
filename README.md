@@ -3,6 +3,6 @@ Keep accumulating, learn to summarize. May we all shine brightly in every journe
 ### 2025
 ___
 **七月 Jul**  
-[Markdown 语法 - 工欲善其事，必先利其器](https://github.com/KreivenWang/journey/blob/main/note-1.md)
-[RSS 订阅 - 打破信息茧房](https://github.com/KreivenWang/journey/blob/main/note-2.md)  
-[本地AI知识库搭建](https://github.com/KreivenWang/journey/blob/main/note-3.md)  
+[Markdown 语法 - 工欲善其事，必先利其器](https://github.com/KreivenWang/journey/issues/1)  
+[RSS 订阅 - 打破信息茧房](https://github.com/KreivenWang/journey/issues/2)  
+[本地AI知识库搭建](https://github.com/KreivenWang/journey/issues/3)  
