@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RSS 订阅.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSS 订阅"
+              "title": "README"
+            }
+          },
+          {
+            "id": "0fdbedc0475ffcef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "idea"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RSS 订阅.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "RSS 订阅 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RSS 订阅.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "RSS 订阅 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -142,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RSS 订阅.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "RSS 订阅 的大纲"
+              "title": "README 的大纲"
             }
           }
         ]
@@ -170,18 +184,20 @@
   },
   "active": "660b003b802d55c3",
   "lastOpenFiles": [
+    "idea.md",
     "README.md",
+    "Markdown语法.md",
+    "issue-2.md",
+    "[journey/README.md",
+    "issue-1.md",
+    "Docker.md",
+    "EO14117.md",
+    "github issues.md",
+    "[journey",
+    "欢迎.md",
     "每天一个小研究.md",
     "保护身体，维持健康.md",
-    "本地AI知识库搭建.md",
-    "欢迎.md",
     "个人发展.md",
-    "RSS 订阅.md",
-    "Markdown 语法.md",
-    "github issues.md",
-    "EO14117.md",
-    "Docker.md",
-    "coze 空间.md",
-    "未命名.md"
+    "coze 空间.md"
   ]
 }
