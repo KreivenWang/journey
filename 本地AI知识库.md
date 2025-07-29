@@ -1,3 +1,1 @@
-# 前期准备
-## Ollama
-## 下载安装
+[本地AI知识库搭建 · Issue #3 · KreivenWang/journey](https://github.com/KreivenWang/journey/issues/3)
