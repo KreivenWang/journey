@@ -3,9 +3,9 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 1010
 copilot-command-model-key: ""
-copilot-command-last-used: 1753930701172
+copilot-command-last-used: 1753930661793
 ---
-Translate {} into Chinese:
+Translate {} into English:
     1. Preserve the meaning and tone
     2. Maintain appropriate cultural context
     3. Keep formatting and structure

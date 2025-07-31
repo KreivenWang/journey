@@ -11,3 +11,6 @@ scrcpy --video-source=display --audio-source=output --record=myfile.mp4 --shortc
 ```
 scrcpy --list-displays
 ```
+
+
+> Or Steam Link does just fine😏
